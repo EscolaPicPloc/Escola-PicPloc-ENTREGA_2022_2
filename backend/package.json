@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Escola-PicPloc",
   "main": "src/infrastructure/server.js",
   "scripts": {
     "start": "node src/infrastructure/server.js",
